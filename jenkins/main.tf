@@ -1,3 +1,4 @@
+#start craeting resioures for creating the jenkins server
 variable "ami_id" {}
 variable "instance_type" {}
 variable "tag_name" {}

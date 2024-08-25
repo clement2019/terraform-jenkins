@@ -1,3 +1,5 @@
+#start creating resources for the certificate manager
+
 variable "domain_name" {}
 variable "hosted_zone_id" {}
 
